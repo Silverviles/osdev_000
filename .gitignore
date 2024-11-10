@@ -1,0 +1,10 @@
+.idea
+
+# compiled files
+boot.o
+kernel.o
+myos.bin
+myos.iso
+
+# os folder
+isodir
